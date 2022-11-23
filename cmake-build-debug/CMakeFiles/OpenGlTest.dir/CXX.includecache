@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aa068/CLionProjects/OpenGlTest/MapGenerator/BaseMapGenerator.cpp
+BaseMapGenerator.h
+C:/Users/aa068/CLionProjects/OpenGlTest/MapGenerator/BaseMapGenerator.h
+iostream
+-
+
+C:/Users/aa068/CLionProjects/OpenGlTest/MapGenerator/BaseMapGenerator.h
+vector
+-
+memory
+-
+cmath
+-
+

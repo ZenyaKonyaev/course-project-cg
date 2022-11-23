@@ -1,0 +1,3 @@
+C:/Users/aa068/CLionProjects/OpenGlTest/cmake-build-debug/CMakeFiles/OpenGlTest.dir
+C:/Users/aa068/CLionProjects/OpenGlTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/aa068/CLionProjects/OpenGlTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
